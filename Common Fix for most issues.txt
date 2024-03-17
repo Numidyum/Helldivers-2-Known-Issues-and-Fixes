@@ -1,0 +1,4 @@
+Press Windows + R
+Type %appdata%
+Find and open the "Arrowhead" Folder.
+Select the "Helldivers2" folder and delete.

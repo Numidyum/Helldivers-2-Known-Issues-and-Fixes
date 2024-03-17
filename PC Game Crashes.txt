@@ -1,0 +1,4 @@
+Try disabling XMP, removing any overclocking on your CPU/GPU, or scanning for corruption in your Windows installation.
+Set your game to borderless fullscreen.
+For AMD GPUs try both dx11 and 12.
+For Nvidia GPUs try reinstalling latest driver or revert back to previous driver.
